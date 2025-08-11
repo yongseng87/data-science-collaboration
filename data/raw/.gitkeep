@@ -1,0 +1,9 @@
+# This file ensures that the raw data directory is tracked by git
+# Place your original, immutable data files here
+# 
+# Example files that might go here:
+# - customer_data.csv
+# - sales_records.json
+# - survey_responses.xlsx
+#
+# Remember: Never commit sensitive data to version control!
